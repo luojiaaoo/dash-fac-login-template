@@ -1,0 +1,1 @@
+LAUNCH_MODE = 'dev'
